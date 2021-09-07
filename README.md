@@ -1,8 +1,4 @@
 ## Oiii! Eu sou a Deyse.
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: ...
-
- 
  <div>
   <a href="https://github.com/deysesantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deysesantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
