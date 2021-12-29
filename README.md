@@ -10,6 +10,8 @@
   <img align="center" alt="deyse-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="deyse-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="deyse-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="deyse-google" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
+ <img align="center" alt="deyse-azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
   <img align="right" alt="Deyse" height="160" width="160" src="https://media.discordapp.net/attachments/884802625311236146/884805068308746250/WhatsApp_Video_2021-09-07_at_10.12.18_1.gif?width=406&height=406">
 </div>
   
